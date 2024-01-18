@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+😄 Pronouns: He/Him
+🌱 I’m a newbie programmer currently learning Front-end Development @ Sundsgården Folkhögskola
+
 <!--
 **BPortsmouth/BPortsmouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
