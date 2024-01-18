@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him<br>
 🌱 I’m a newbie programmer currently learning Front-end Development @ Sundsgården Folkhögskola
 
 <!--
